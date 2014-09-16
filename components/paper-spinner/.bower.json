@@ -1,0 +1,14 @@
+{
+  "name": "paper-spinner",
+  "homepage": "https://github.com/PolymerLabs/paper-spinner",
+  "_release": "00403d5177",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "00403d517708ca05236a07c7ce3f111d495f9d11"
+  },
+  "_source": "git://github.com/PolymerLabs/paper-spinner.git",
+  "_target": "master",
+  "_originalSource": "PolymerLabs/paper-spinner",
+  "_direct": true
+}
