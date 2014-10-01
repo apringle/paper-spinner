@@ -122,62 +122,62 @@
 
 @-webkit-keyframes colors {
   0% {
-    stroke: #4285f4;
+    stroke: #4C301F;
   }
   18% {
-    stroke: #4285f4;
+    stroke: #643f29;
   }
   25% {
-    stroke: #db4437;
+    stroke: #7c4e33;
   }
   43% {
-    stroke: #db4437;
+    stroke: #945e3d;
   }
   50% {
-    stroke: #f4b400;
+    stroke: #ad6d46;
   }
   68% {
-    stroke: #f4b400;
+    stroke: #945e3d;
   }
   75% {
-    stroke: #0f9d58;
+    stroke: #7c4e33;
   }
   93% {
-    stroke: #0f9d58;
+    stroke: #643f29;
   }
   100% {
-    stroke: #4285f4;
+    stroke: #4c301f;
   }
 }
 
 @keyframes colors {
-  0% {
-    stroke: #4285f4;
-  }
-  18% {
-    stroke: #4285f4;
-  }
-  25% {
-    stroke: #db4437;
-  }
-  43% {
-    stroke: #db4437;
-  }
-  50% {
-    stroke: #f4b400;
-  }
-  68% {
-    stroke: #f4b400;
-  }
-  75% {
-    stroke: #0f9d58;
-  }
-  93% {
-    stroke: #0f9d58;
-  }
-  100% {
-    stroke: #4285f4;
-  }
+    0% {
+        stroke: #4C301F;
+    }
+    18% {
+        stroke: #643f29;
+    }
+    25% {
+        stroke: #7c4e33;
+    }
+    43% {
+        stroke: #945e3d;
+    }
+    50% {
+        stroke: #ad6d46;
+    }
+    68% {
+        stroke: #945e3d;
+    }
+    75% {
+        stroke: #7c4e33;
+    }
+    93% {
+        stroke: #643f29;
+    }
+    100% {
+        stroke: #4c301f;
+    }
 }
 
 @-webkit-keyframes shrink {
